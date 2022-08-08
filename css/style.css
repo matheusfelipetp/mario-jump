@@ -55,6 +55,16 @@
   animation: cloud-animation 20s infinite linear;
 }
 
+.rules {
+  display: grid;
+  gap: 32px;
+  margin-top: 100px;
+  margin-left: 40px;
+}
+.rules p {
+  font: 500 1.5rem "Press Start 2P", cursive;
+}
+
 @keyframes jump {
   0% {
     bottom: 0;
