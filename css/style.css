@@ -14,6 +14,21 @@
   overflow: hidden;
 }
 
+.game-over {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+.game-over h1 {
+  display: none;
+  font: 500 5rem "Press Start 2P", cursive;
+  position: absolute;
+  z-index: 2;
+  color: #e30200;
+  -webkit-text-stroke: 2px #000;
+}
+
 .mario {
   width: 150px;
   bottom: 0;
