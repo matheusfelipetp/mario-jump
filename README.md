@@ -1,5 +1,5 @@
 # 🎮 Mario Jump
-Projeto inspirado no clássico jogo do Mario, utilizando apenas manipulação de DOM e JavaScript puro.
+Projeto inspirado no clássico jogo do Mario, utilizando apenas manipulação de DOM e animações no CSS. O usuário precisa apertar a "barra de espaço" para pular os obstáculos que aparecerem a sua frente.
 
 ## 🔨 FERRAMENTAS
 - HTML5
